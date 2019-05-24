@@ -117,6 +117,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepCore.Voxel", "..\DeepCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepTools.NuGetIncrement", "..\DeepEditor\DeepTools.NuGetIncrement\DeepTools.NuGetIncrement.csproj", "{60B1705E-DBED-43D6-AC26-272DCFA0142E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCore.Voxel.GameHost", "..\DeepCore\DeepCore.Voxel.GameHost\DeepCore.Voxel.GameHost.csproj", "{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -735,6 +737,18 @@ Global
 		{60B1705E-DBED-43D6-AC26-272DCFA0142E}.Release|x64.Build.0 = Release|Any CPU
 		{60B1705E-DBED-43D6-AC26-272DCFA0142E}.Release|x86.ActiveCfg = Release|Any CPU
 		{60B1705E-DBED-43D6-AC26-272DCFA0142E}.Release|x86.Build.0 = Release|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Debug|x64.Build.0 = Debug|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Release|x64.ActiveCfg = Release|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Release|x64.Build.0 = Release|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -792,6 +806,7 @@ Global
 		{854700C8-A448-466A-A999-6C9BC20F8FEA} = {39F620D0-C8CD-4A8B-BE4A-56FCCF6B43B0}
 		{9CF4F985-7C11-47D9-A4E7-77336A11BE4B} = {9534BE62-BED6-4F60-90F9-6549E6DB80D7}
 		{60B1705E-DBED-43D6-AC26-272DCFA0142E} = {0D03DEA9-4A33-43FF-BD03-AE3A82CC4A11}
+		{CFD32421-81D8-41AE-ADA1-A1E57460A6F8} = {9534BE62-BED6-4F60-90F9-6549E6DB80D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {030B5171-472B-4325-8594-3C3735C96928}
