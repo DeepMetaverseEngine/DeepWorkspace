@@ -1,19 +1,15 @@
 [submodule "DeepCore"]
 	path = DeepCore
 	url = https://wazazhang@bitbucket.org/fuckpomelo/deepcore.git
-	
 [submodule "DeepEditor"]
 	path = DeepEditor
 	url = https://wazazhang@bitbucket.org/fuckpomelo/deepeditor.git
-	
 [submodule "DeepFrozen"]	
 	path = DeepFrozen
 	url = https://wazazhang@bitbucket.org/fuckpomelo/deepfrozen.git
-	
 [submodule "DeepPackages"]	
 	path = DeepPackages
 	url = https://wazazhang@bitbucket.org/fuckpomelo/deeppackages.git
-	
 [submodule "DeepSamples"]	
 	path = DeepSamples
 	url = https://wazazhang@bitbucket.org/fuckpomelo/DeepSamples.git
