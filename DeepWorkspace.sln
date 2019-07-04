@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepCore", "DeepCore\DeepCore\DeepCore.csproj", "{99FB4093-B16E-4963-A861-9A07574BD9BC}"
 EndProject
@@ -115,11 +115,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBattle3DWin32", "Deep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepEditor.GUI", "DeepEditor\DeepEditor.GUI\DeepEditor.GUI.csproj", "{37D1006E-988A-4AAA-B7C5-73D8674452C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCore.Game3D.Host", "DeepCore\DeepCore.Game3D.Host\DeepCore.Game3D.Host.csproj", "{EAD31E15-1C7D-4894-980C-0AD7212553E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepCore.Game3D.Host", "DeepCore\DeepCore.Game3D.Host\DeepCore.Game3D.Host.csproj", "{EAD31E15-1C7D-4894-980C-0AD7212553E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCore.Game3D.Slave", "DeepCore\DeepCore.Game3D.Slave\DeepCore.Game3D.Slave.csproj", "{F15D5B23-93C8-4DA3-8063-7A89B9723107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCore.Game3D", "DeepCore\DeepCore.Game3D\DeepCore.Game3D.csproj", "{05062D77-DFD0-4F6A-BFB2-2CE15916D031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepCore.Game3D", "DeepCore\DeepCore.Game3D\DeepCore.Game3D.csproj", "{05062D77-DFD0-4F6A-BFB2-2CE15916D031}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
