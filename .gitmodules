@@ -1,15 +1,18 @@
 [submodule "DeepCore"]
 	path = DeepCore
-	url = https://wazazhang@bitbucket.org/fuckpomelo/deepcore.git
+	url = git@git.code.tencent.com:FuckPomelo/DeepCore.git
 [submodule "DeepEditor"]
 	path = DeepEditor
-	url = https://wazazhang@bitbucket.org/fuckpomelo/deepeditor.git
+	url = git@git.code.tencent.com:FuckPomelo/DeepEditor.git
 [submodule "DeepFrozen"]	
 	path = DeepFrozen
-	url = https://wazazhang@bitbucket.org/fuckpomelo/deepfrozen.git
+	url = git@git.code.tencent.com:FuckPomelo/DeepFrozen.git
 [submodule "DeepPackages"]	
 	path = DeepPackages
-	url = https://wazazhang@bitbucket.org/fuckpomelo/deeppackages.git
+	url = git@git.code.tencent.com:FuckPomelo/DeepPackages.git
 [submodule "DeepSamples"]	
 	path = DeepSamples
-	url = https://wazazhang@bitbucket.org/fuckpomelo/DeepSamples.git
+	url = git@git.code.tencent.com:FuckPomelo/DeepSamples.git
+[submodule "DeepSamples3D"]	
+	path = DeepSamples3D
+	url = git@git.code.tencent.com:FuckPomelo/DeepSamples.git
