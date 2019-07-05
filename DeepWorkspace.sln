@@ -107,11 +107,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepCore.Unity3D", "DeepCor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepEditor.Plugin3D", "DeepEditor\DeepEditor.Plugin3D\DeepEditor.Plugin3D.csproj", "{B508D050-743E-4CE8-94FF-9AB010D35344}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleBattle3D", "DeepSamples\Samples3D\SampleCommon\SampleBattle3D\SampleBattle3D.csproj", "{5B8A7B9B-827B-49D6-B331-9D01411CB27C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleBattle3D", "DeepSamples3D\Samples3D\SampleCommon\SampleBattle3D\SampleBattle3D.csproj", "{5B8A7B9B-827B-49D6-B331-9D01411CB27C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11.DeepSamples3D", "11.DeepSamples3D", "{5D988B2E-2A62-4FE0-AD2D-BFA57E7494DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBattle3DWin32", "DeepSamples\Samples3D\SampleCommon\SampleBattle3DWin32\SampleBattle3DWin32.csproj", "{3EF4962B-3105-4D19-810C-7D8CA95A5784}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBattle3DWin32", "DeepSamples3D\Samples3D\SampleCommon\SampleBattle3DWin32\SampleBattle3DWin32.csproj", "{3EF4962B-3105-4D19-810C-7D8CA95A5784}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepEditor.GUI", "DeepEditor\DeepEditor.GUI\DeepEditor.GUI.csproj", "{37D1006E-988A-4AAA-B7C5-73D8674452C3}"
 EndProject
