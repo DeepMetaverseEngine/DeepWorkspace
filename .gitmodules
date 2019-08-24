@@ -7,3 +7,6 @@
 [submodule "DeepFrozen"]	
 	path = DeepFrozen
 	url = git@git.code.tencent.com:FuckPomelo/DeepFrozen.git
+[submodule "DeepMMO"]	
+	path = DeepMMO
+	url = git@git.code.tencent.com:FuckPomelo/DeepMMO.git
