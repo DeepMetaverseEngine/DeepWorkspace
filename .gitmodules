@@ -10,3 +10,6 @@
 [submodule "DeepMMO"]	
 	path = DeepMMO
 	url = git@git.code.tencent.com:FuckPomelo/DeepMMO.git
+[submodule "DeepRelease"]	
+	path = DeepRelease
+	url = git@git.code.tencent.com:FuckPomelo/DeepRelease.git
