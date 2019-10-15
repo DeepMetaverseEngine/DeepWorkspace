@@ -113,7 +113,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestServer", "TestServer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCDNBenchMark", "DeepRelease\TestCDNBenchMark\TestCDNBenchMark.csproj", "{6C070C9C-7328-460D-909F-D91B18523B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepRelease.Core", "DeepRelease\DeepRelease.Core\DeepRelease.Core.csproj", "{395EC755-735E-48BA-882A-65CE65FA0987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepRelease.Core", "DeepRelease\DeepRelease.Core\DeepRelease.Core.csproj", "{395EC755-735E-48BA-882A-65CE65FA0987}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
