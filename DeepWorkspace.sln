@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCDNBenchMark", "DeepRel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepRelease.Core", "DeepRelease\DeepRelease.Core\DeepRelease.Core.csproj", "{395EC755-735E-48BA-882A-65CE65FA0987}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepRelease.Lib", "DeepRelease\DeepRelease.Lib\DeepRelease.Lib.csproj", "{336CA676-E662-46B8-85CA-FFE1633D2A5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -701,6 +703,18 @@ Global
 		{395EC755-735E-48BA-882A-65CE65FA0987}.Release|x64.Build.0 = Release|Any CPU
 		{395EC755-735E-48BA-882A-65CE65FA0987}.Release|x86.ActiveCfg = Release|Any CPU
 		{395EC755-735E-48BA-882A-65CE65FA0987}.Release|x86.Build.0 = Release|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Debug|x64.Build.0 = Debug|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Debug|x86.Build.0 = Debug|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Release|x64.ActiveCfg = Release|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Release|x64.Build.0 = Release|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Release|x86.ActiveCfg = Release|Any CPU
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -755,6 +769,7 @@ Global
 		{A93794CF-05ED-41AD-874F-91F662EDBBAA} = {748A317F-98B2-4BD9-9BD0-ACEB12C40A57}
 		{6C070C9C-7328-460D-909F-D91B18523B74} = {748A317F-98B2-4BD9-9BD0-ACEB12C40A57}
 		{395EC755-735E-48BA-882A-65CE65FA0987} = {748A317F-98B2-4BD9-9BD0-ACEB12C40A57}
+		{336CA676-E662-46B8-85CA-FFE1633D2A5B} = {748A317F-98B2-4BD9-9BD0-ACEB12C40A57}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {030B5171-472B-4325-8594-3C3735C96928}
