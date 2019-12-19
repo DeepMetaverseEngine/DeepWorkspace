@@ -125,6 +125,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepEditor.UIEditor", "Deep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMPQ", "DeepRelease\TestMPQ\TestMPQ.csproj", "{22C9D464-E7A1-45E6-A106-447668B6357B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{218B1526-51DB-4F3F-A8D7-F6DC70621F9F}"
+	ProjectSection(SolutionItems) = preProject
+		DeepRelease\lib\_convert_xml_filter.txt = DeepRelease\lib\_convert_xml_filter.txt
+		DeepRelease\lib\_filter_cpj.txt = DeepRelease\lib\_filter_cpj.txt
+		DeepRelease\lib\_m3z_cmdline.txt = DeepRelease\lib\_m3z_cmdline.txt
+		DeepRelease\lib\_m3z_converter.bat = DeepRelease\lib\_m3z_converter.bat
+		DeepRelease\lib\_m3z_filter.txt = DeepRelease\lib\_m3z_filter.txt
+		DeepRelease\lib\_run_convert__m3z.bat = DeepRelease\lib\_run_convert__m3z.bat
+		DeepRelease\lib\_update_filter_android.txt = DeepRelease\lib\_update_filter_android.txt
+		DeepRelease\lib\_update_filter_ios.txt = DeepRelease\lib\_update_filter_ios.txt
+		DeepRelease\lib\_update_filter_pc.txt = DeepRelease\lib\_update_filter_pc.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -830,6 +843,7 @@ Global
 		{A1516745-C8A9-4AD1-863B-37DAD35FF1A5} = {A93794CF-05ED-41AD-874F-91F662EDBBAA}
 		{8049E225-4C96-4E05-BD6B-9B8C04C56C98} = {0D03DEA9-4A33-43FF-BD03-AE3A82CC4A11}
 		{22C9D464-E7A1-45E6-A106-447668B6357B} = {748A317F-98B2-4BD9-9BD0-ACEB12C40A57}
+		{218B1526-51DB-4F3F-A8D7-F6DC70621F9F} = {748A317F-98B2-4BD9-9BD0-ACEB12C40A57}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {030B5171-472B-4325-8594-3C3735C96928}
