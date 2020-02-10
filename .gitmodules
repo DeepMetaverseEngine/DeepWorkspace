@@ -18,7 +18,7 @@
 	url = git@git.code.tencent.com:FuckPomelo/DeepPackages.git
 [submodule "DeepSamples"]	
 	path = DeepSamples
-	url = git@git.code.tencent.com:FuckPomelo/DeepSamples.git
+	url = https://wazazhang@bitbucket.org/fuckpomelo/deepsamples.git
 [submodule "DeepSamples3D"]	
 	path = DeepSamples3D
 	url = git@git.code.tencent.com:FuckPomelo/DeepSamples3D.git
