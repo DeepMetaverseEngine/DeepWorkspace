@@ -22,6 +22,9 @@
 [submodule "DeepSamples"]	
 	path = DeepSamples
 	url = git@git.code.tencent.com:FuckPomelo/DeepSamples.git
+[submodule "DeepSamples2D"]	
+	path = DeepSamples2D
+	url = git@git.code.tencent.com:FuckPomelo/DeepSamples2D.git
 [submodule "DeepSamples3D"]	
 	path = DeepSamples3D
 	url = git@git.code.tencent.com:FuckPomelo/DeepSamples3D.git
