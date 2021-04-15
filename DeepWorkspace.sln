@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepEditor.Common", "DeepEd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepEditor.Main", "DeepEditor\DeepEditor.Main\DeepEditor.Main.csproj", "{3AEDCC34-FBCE-4955-A329-F5A832F292E6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepTools.CodeGen", "DeepEditor\DeepTools.CodeGen\DeepTools.CodeGen.csproj", "{FAB314C1-525D-462B-82BE-560B6FA224C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepTools.CodeGen", "DeepEditor\DeepTools.CodeGen\DeepTools.CodeGen.csproj", "{FAB314C1-525D-462B-82BE-560B6FA224C5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepTools.GUI", "DeepEditor\DeepTools.GUI\DeepTools.GUI.csproj", "{969AEE6A-2410-4621-A57A-129C7A2D466C}"
 EndProject
@@ -51,7 +51,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepTools.MPQ", "DeepEditor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepTools.SvnCombiner", "DeepEditor\DeepTools.SvnCombiner\DeepTools.SvnCombiner.csproj", "{4169D94C-5E90-46BB-8871-E1A945D8EE35}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepTools.XLS2Lang", "DeepEditor\DeepTools.XLS2Lang\DeepTools.XLS2Lang.csproj", "{8EA14586-26DF-40AE-B7A3-1C575004CEC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepTools.XLS2Lang", "DeepEditor\DeepTools.XLS2Lang\DeepTools.XLS2Lang.csproj", "{8EA14586-26DF-40AE-B7A3-1C575004CEC8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "21.DeepSamples", "21.DeepSamples", "{39F620D0-C8CD-4A8B-BE4A-56FCCF6B43B0}"
 EndProject
@@ -121,17 +121,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{4BCE8476-F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestRpc", "TestRpc", "{4BE41F33-7392-4C05-8537-42B99D4044E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestORM", "DeepRelease\TestRpc\TestORM\TestORM.csproj", "{AFAF9F31-B993-498B-B52E-5E36012D7599}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestORM", "DeepRelease\TestRpc\TestORM\TestORM.csproj", "{AFAF9F31-B993-498B-B52E-5E36012D7599}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepFrozen.RPC.ICE", "DeepFrozen\DeepFrozen.RPC.ICE\DeepFrozen.RPC.ICE.csproj", "{7B32CD76-C2B7-45B8-97E2-92F5459C5DE0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestORM.Gen", "DeepRelease\TestRpc\TestORM.Gen\TestORM.Gen.csproj", "{7685A50A-8C13-4800-97FB-807842946E07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestORM.Gen", "DeepRelease\TestRpc\TestORM.Gen\TestORM.Gen.csproj", "{7685A50A-8C13-4800-97FB-807842946E07}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.DeepModules", "12.DeepModules", "{84F16027-75CF-4F28-86A2-9CCE3138BEA3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepHttpService", "DeepModules\DeepHttpService\DeepHttpService.csproj", "{F601F20A-481E-4CED-8C72-F8F638B20A29}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid", "DeepRelease\TestServer\Grid\Grid.csproj", "{73970117-2BFA-4DEF-BF45-02FED48F2727}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "DeepRelease\TestServer\Grid\Grid.csproj", "{73970117-2BFA-4DEF-BF45-02FED48F2727}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid.Host", "DeepRelease\TestServer\Grid.Host\Grid.Host.csproj", "{E1D113D0-8655-497A-87B2-053642EDF435}"
 EndProject
@@ -147,7 +147,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestService.ORMLua", "DeepR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestService.ORMNoWait", "DeepRelease\TestRpc\TestService.ORMNoWait\TestService.ORMNoWait.csproj", "{7636CF3F-8420-4763-BB44-5951C1275A93}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestService.MultiNode", "DeepRelease\TestRpc\TestService.MultiNode\TestService.MultiNode.csproj", "{D029E622-954E-4B80-85F7-D035ED6C6BF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestService.MultiNode", "DeepRelease\TestRpc\TestService.MultiNode\TestService.MultiNode.csproj", "{D029E622-954E-4B80-85F7-D035ED6C6BF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUnity", "DeepSamples\Samples\SampleCommon\SampleUnity\SampleUnity.csproj", "{799D0C9F-D484-48F8-807D-FC21D6AC3343}"
 EndProject
