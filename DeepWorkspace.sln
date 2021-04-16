@@ -120,6 +120,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepFrozen.RPC.ICE", "DeepFrozen\DeepFrozen.RPC.ICE\DeepFrozen.RPC.ICE.csproj", "{7B32CD76-C2B7-45B8-97E2-92F5459C5DE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestORM.Gen", "DeepRelease\TestRpc\TestORM.Gen\TestORM.Gen.csproj", "{7685A50A-8C13-4800-97FB-807842946E07}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DF75809A-F6F7-40C0-915D-D8B84313C89F} = {DF75809A-F6F7-40C0-915D-D8B84313C89F}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.DeepModules", "12.DeepModules", "{84F16027-75CF-4F28-86A2-9CCE3138BEA3}"
 EndProject
