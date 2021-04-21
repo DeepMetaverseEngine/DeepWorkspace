@@ -16,9 +16,6 @@
 [submodule "DeepRelease"]	
 	path = DeepRelease
 	url = git@git.code.tencent.com:FuckPomelo/DeepRelease.git
-[submodule "DeepPackages"]	
-	path = DeepPackages
-	url = git@git.code.tencent.com:FuckPomelo/DeepPackages.git
 [submodule "DeepSamples"]	
 	path = DeepSamples
 	url = git@git.code.tencent.com:FuckPomelo/DeepSamples.git
